@@ -1,0 +1,14 @@
+D:\VB2012\Games\井字遊戲\bin\Debug\井字遊戲.exe.config
+D:\VB2012\Games\井字遊戲\bin\Debug\井字遊戲.exe
+D:\VB2012\Games\井字遊戲\bin\Debug\井字遊戲.pdb
+D:\VB2012\Games\井字遊戲\bin\Debug\井字遊戲.xml
+D:\VB2012\Games\井字遊戲\obj\Debug\井字遊戲.Form1.resources
+D:\VB2012\Games\井字遊戲\obj\Debug\井字遊戲.Resources.resources
+D:\VB2012\Games\井字遊戲\obj\Debug\井字遊戲.vbproj.GenerateResource.Cache
+D:\VB2012\Games\井字遊戲\obj\Debug\井字遊戲.exe
+D:\VB2012\Games\井字遊戲\obj\Debug\井字遊戲.xml
+D:\VB2012\Games\井字遊戲\obj\Debug\井字遊戲.pdb
+D:\VB2012\Ch10\Ch10-6-3\井字遊戲\bin\Debug\井字遊戲.exe.config
+D:\VB2012\Ch10\Ch10-6-3\井字遊戲\obj\Debug\井字遊戲.exe
+D:\VB2012\Ch10\Ch10-6-3\井字遊戲\obj\Debug\井字遊戲.xml
+D:\VB2012\Ch10\Ch10-6-3\井字遊戲\obj\Debug\井字遊戲.pdb

@@ -1,0 +1,10 @@
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\bin\Debug\算術計算機.exe.config
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\bin\Debug\算術計算機.exe
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\bin\Debug\算術計算機.pdb
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\bin\Debug\算術計算機.xml
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\obj\Debug\算術計算機.Form1.resources
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\obj\Debug\算術計算機.Resources.resources
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\obj\Debug\算術計算機.vbproj.GenerateResource.Cache
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\obj\Debug\算術計算機.exe
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\obj\Debug\算術計算機.xml
+D:\VB2012\Ch07\Ch7-5-1\算術計算機\obj\Debug\算術計算機.pdb

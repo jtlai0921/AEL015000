@@ -1,0 +1,6 @@
+.\php_mysql\mysql\bin\mysqld.exe: Table 'mysql.plugin' doesn't exist
+091110 17:04:25 [ERROR] Can't open the mysql.plugin table. Please run mysql_upgrade to create it.
+091110 17:04:25 [ERROR] Fatal error: Can't open and lock privilege tables: Table 'mysql.host' doesn't exist
+091110 17:05:29 [Note] Event Scheduler: Loaded 0 events
+091110 17:05:29 [Note] .\php_mysql\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.40'  socket: ''  port: 3306  Source distribution

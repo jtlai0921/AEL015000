@@ -1,0 +1,10 @@
+D:\VB2012\Ch4-4-1\文字按鈕\bin\Debug\文字按鈕.exe.config
+D:\VB2012\Ch4-4-1\文字按鈕\bin\Debug\文字按鈕.exe
+D:\VB2012\Ch4-4-1\文字按鈕\bin\Debug\文字按鈕.pdb
+D:\VB2012\Ch4-4-1\文字按鈕\bin\Debug\文字按鈕.xml
+D:\VB2012\Ch4-4-1\文字按鈕\obj\Debug\文字按鈕.Form1.resources
+D:\VB2012\Ch4-4-1\文字按鈕\obj\Debug\文字按鈕.Resources.resources
+D:\VB2012\Ch4-4-1\文字按鈕\obj\Debug\文字按鈕.vbproj.GenerateResource.Cache
+D:\VB2012\Ch4-4-1\文字按鈕\obj\Debug\文字按鈕.exe
+D:\VB2012\Ch4-4-1\文字按鈕\obj\Debug\文字按鈕.xml
+D:\VB2012\Ch4-4-1\文字按鈕\obj\Debug\文字按鈕.pdb

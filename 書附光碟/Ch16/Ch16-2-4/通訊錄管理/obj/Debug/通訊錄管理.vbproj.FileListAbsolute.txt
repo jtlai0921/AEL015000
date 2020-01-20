@@ -1,0 +1,2 @@
+D:\VB2012\Ch16\Ch16-2-3\通訊錄管理\bin\Debug\通訊錄管理.exe.config
+D:\VB2012\Ch16\Ch16-2-4\通訊錄管理\bin\Debug\通訊錄管理.exe.config

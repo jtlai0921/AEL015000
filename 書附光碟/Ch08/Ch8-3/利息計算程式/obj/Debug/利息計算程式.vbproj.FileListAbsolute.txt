@@ -1,0 +1,10 @@
+D:\VB2012\Ch08\Ch8-3\利息計算程式\bin\Debug\利息計算程式.exe.config
+D:\VB2012\Ch08\Ch8-3\利息計算程式\bin\Debug\利息計算程式.exe
+D:\VB2012\Ch08\Ch8-3\利息計算程式\bin\Debug\利息計算程式.pdb
+D:\VB2012\Ch08\Ch8-3\利息計算程式\bin\Debug\利息計算程式.xml
+D:\VB2012\Ch08\Ch8-3\利息計算程式\obj\Debug\利息計算程式.Form1.resources
+D:\VB2012\Ch08\Ch8-3\利息計算程式\obj\Debug\利息計算程式.Resources.resources
+D:\VB2012\Ch08\Ch8-3\利息計算程式\obj\Debug\利息計算程式.vbproj.GenerateResource.Cache
+D:\VB2012\Ch08\Ch8-3\利息計算程式\obj\Debug\利息計算程式.exe
+D:\VB2012\Ch08\Ch8-3\利息計算程式\obj\Debug\利息計算程式.xml
+D:\VB2012\Ch08\Ch8-3\利息計算程式\obj\Debug\利息計算程式.pdb

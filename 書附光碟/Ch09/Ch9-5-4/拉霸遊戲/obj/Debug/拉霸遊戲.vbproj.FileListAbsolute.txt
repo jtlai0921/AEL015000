@@ -1,0 +1,14 @@
+D:\VB2012\Games\拉霸遊戲\bin\Debug\拉霸遊戲.exe.config
+D:\VB2012\Games\拉霸遊戲\bin\Debug\拉霸遊戲.exe
+D:\VB2012\Games\拉霸遊戲\bin\Debug\拉霸遊戲.pdb
+D:\VB2012\Games\拉霸遊戲\bin\Debug\拉霸遊戲.xml
+D:\VB2012\Games\拉霸遊戲\obj\Debug\拉霸遊戲.Resources.resources
+D:\VB2012\Games\拉霸遊戲\obj\Debug\拉霸遊戲.vbproj.GenerateResource.Cache
+D:\VB2012\Games\拉霸遊戲\obj\Debug\拉霸遊戲.exe
+D:\VB2012\Games\拉霸遊戲\obj\Debug\拉霸遊戲.xml
+D:\VB2012\Games\拉霸遊戲\obj\Debug\拉霸遊戲.pdb
+D:\VB2012\Games\拉霸遊戲\obj\Debug\拉霸遊戲.Form1.resources
+D:\VB2012\Ch09\Ch9-5-4\拉霸遊戲\bin\Debug\拉霸遊戲.exe.config
+D:\VB2012\Ch09\Ch9-5-4\拉霸遊戲\obj\Debug\拉霸遊戲.exe
+D:\VB2012\Ch09\Ch9-5-4\拉霸遊戲\obj\Debug\拉霸遊戲.xml
+D:\VB2012\Ch09\Ch9-5-4\拉霸遊戲\obj\Debug\拉霸遊戲.pdb

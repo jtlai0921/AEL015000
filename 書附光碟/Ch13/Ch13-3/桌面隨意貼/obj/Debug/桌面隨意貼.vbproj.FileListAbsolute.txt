@@ -1,0 +1,10 @@
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\bin\Debug\桌面隨意貼.exe.config
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\bin\Debug\桌面隨意貼.exe
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\bin\Debug\桌面隨意貼.pdb
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\bin\Debug\桌面隨意貼.xml
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\obj\Debug\桌面隨意貼.Form1.resources
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\obj\Debug\桌面隨意貼.Resources.resources
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\obj\Debug\桌面隨意貼.vbproj.GenerateResource.Cache
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\obj\Debug\桌面隨意貼.exe
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\obj\Debug\桌面隨意貼.xml
+D:\VB2012\Ch13\Ch13-3\桌面隨意貼\obj\Debug\桌面隨意貼.pdb

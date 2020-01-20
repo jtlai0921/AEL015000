@@ -1,0 +1,9 @@
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\bin\Debug\主控台程式.exe.config
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\bin\Debug\主控台程式.exe
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\bin\Debug\主控台程式.pdb
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\bin\Debug\主控台程式.xml
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\obj\Debug\主控台程式.Resources.resources
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\obj\Debug\主控台程式.vbproj.GenerateResource.Cache
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\obj\Debug\主控台程式.exe
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\obj\Debug\主控台程式.xml
+D:\VB2012\Ch02\Ch2-3-2\主控台程式\obj\Debug\主控台程式.pdb

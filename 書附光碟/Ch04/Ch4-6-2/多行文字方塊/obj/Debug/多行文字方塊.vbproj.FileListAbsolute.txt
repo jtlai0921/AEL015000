@@ -1,0 +1,10 @@
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\bin\Debug\多行文字方塊.exe.config
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\bin\Debug\多行文字方塊.exe
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\bin\Debug\多行文字方塊.pdb
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\bin\Debug\多行文字方塊.xml
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\obj\Debug\多行文字方塊.Form1.resources
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\obj\Debug\多行文字方塊.Resources.resources
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\obj\Debug\多行文字方塊.vbproj.GenerateResource.Cache
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\obj\Debug\多行文字方塊.exe
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\obj\Debug\多行文字方塊.xml
+D:\VB2012\Ch04\Ch4-6-2\多行文字方塊\obj\Debug\多行文字方塊.pdb

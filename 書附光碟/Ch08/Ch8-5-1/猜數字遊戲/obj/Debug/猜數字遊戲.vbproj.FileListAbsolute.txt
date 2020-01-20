@@ -1,0 +1,10 @@
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\bin\Debug\猜數字遊戲.exe.config
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\bin\Debug\猜數字遊戲.exe
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\bin\Debug\猜數字遊戲.pdb
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\bin\Debug\猜數字遊戲.xml
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\obj\Debug\猜數字遊戲.Form1.resources
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\obj\Debug\猜數字遊戲.Resources.resources
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\obj\Debug\猜數字遊戲.vbproj.GenerateResource.Cache
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\obj\Debug\猜數字遊戲.exe
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\obj\Debug\猜數字遊戲.xml
+D:\VB2012\Ch08\Ch8-5-1\猜數字遊戲\obj\Debug\猜數字遊戲.pdb

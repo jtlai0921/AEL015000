@@ -1,0 +1,11 @@
+D:\VB2012\Ch4-4-1\圖形按鈕\bin\Debug\圖形按鈕.exe.config
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\bin\Debug\圖形按鈕.exe.config
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\bin\Debug\圖形按鈕.exe
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\bin\Debug\圖形按鈕.pdb
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\bin\Debug\圖形按鈕.xml
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\obj\Debug\圖形按鈕.Form1.resources
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\obj\Debug\圖形按鈕.Resources.resources
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\obj\Debug\圖形按鈕.vbproj.GenerateResource.Cache
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\obj\Debug\圖形按鈕.exe
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\obj\Debug\圖形按鈕.xml
+D:\VB2012\Ch04\Ch4-4-2\圖形按鈕\obj\Debug\圖形按鈕.pdb
